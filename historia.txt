@@ -5,3 +5,5 @@ Nicolas Perez tiene 24 años y nacio en Colombia
 hoy hablaremos de su historia 
 
 En cámara parece alto pero no es tan alto
+
+Hoy es Programador full stack y gana muy bien
